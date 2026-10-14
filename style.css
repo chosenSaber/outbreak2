@@ -1,0 +1,67 @@
+body {
+    background-color: #e8eee6;
+    color: #26352b;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.page {
+    background-color: white;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 25px;
+}
+
+header {
+    background-color: #263d31;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    color: #d4ed91;
+}
+
+h2 {
+    border-bottom: 2px solid #8aa36a;
+    color: #35513d;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #476b4d;
+}
+
+img {
+    border: 4px solid white;
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    width: 500px;
+}
+
+.card {
+    background-color: #f1f5ed;
+    border-left: 5px solid #8aa36a;
+    margin: 12px 0;
+    padding: 10px 18px;
+}
+
+.challenge {
+    background-color: #fff4dd;
+    border: 2px dashed #bb8b42;
+    margin-top: 25px;
+    padding: 15px;
+}
+
+footer {
+    border-top: 1px solid #bbbbbb;
+    margin-top: 30px;
+    padding-top: 15px;
+}
+
+a {
+    color: #35513d;
+}
